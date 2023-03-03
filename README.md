@@ -1,1 +1,1 @@
-# face_recognition
+# Face Recognition Kivy App Using Siamese Network  
