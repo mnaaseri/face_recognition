@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+face_verification.ipynb
+app/__pycache__
+/app/model/
